@@ -26,23 +26,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Katyusha-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Katyusha ×፝֟͜×" //nama kalian
+global.botname = "Darkulo-Mdོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Darkulo ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "kontol@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6282250394791'] //premium user
-global.owner = ["6282250394791","6283866757153"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "+6282250394791" // nomor wa kalian
+global.premium = ['6285748830478'] //premium user
+global.owner = ["6285748830478","6283866757153"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "+6285748830478" // nomor wa kalian
 global.ownernomerr = "+6283866757153" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Katyusha-Mdོ' //sticker wm ubah
+global.packname = '© Darkulo-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Katyusha' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
